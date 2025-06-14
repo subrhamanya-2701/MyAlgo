@@ -1,3 +1,3 @@
 # MyAlgo
 File Compression
-Hi hello this just to create my own file compressor
+Self Project Referring the Huffman Algo
